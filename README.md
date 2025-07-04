@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @macshaggy
-- 👀 I’m interested in python, data science, and astronomy.
-- 💞️ I’m looking to collaborate on astronomy data science projects.
-- 📫 How to reach me DM me on @jkb@mastodon.social.
+- 👀 I’m interested in python, and astronomy.
+- 💞️ I’m looking to collaborate on astronomy computer/data science projects.
+- 📫 How to reach me DM me on @jasonb@sigmoid.social.
 - 🕸️ I have a website that I'm learning to use django with goto https://www.shaggyverse.net.
 
 <!---
